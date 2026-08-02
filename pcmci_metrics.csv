@@ -1,0 +1,14 @@
+metric,value
+Svc-AC@1,0.04
+Svc-AC@3,0.192
+Svc-AC@5,0.28
+Mtr-AC@1,0.0
+Mtr-AC@3,0.024
+Mtr-AC@5,0.056
+Avg Svc_Rank,11.064
+Avg Mtr_Rank,27.024
+Top-1 Acc,1.0
+Top-3 Acc,1.0
+Top-5 Acc,1.0
+Avg n_nodes,45.536
+Avg n_edges,1843.568
